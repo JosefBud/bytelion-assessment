@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<CommentSection /> renders 1`] = `
+<div
+  className="commentsection"
+>
+  <h3>
+    Log in to see your comments!
+  </h3>
+</div>
+`;

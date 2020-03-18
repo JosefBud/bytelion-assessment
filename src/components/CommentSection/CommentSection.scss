@@ -1,0 +1,25 @@
+.commentsection {
+  text-align: center;
+  margin-top: 300px;
+  position: relative;
+
+  @media screen and (max-width: 768px) {
+    margin-top: 800px;
+  }
+
+  &-card {
+    text-align: left;
+    background: #dedede;
+    margin: auto;
+    margin-bottom: 10px;
+    padding: 5px 15px;
+    width: 800px;
+    max-width: 100vw;
+    border: 1px solid $grey;
+    border-radius: 8px;
+  }
+
+  a {
+    padding: 10px;
+  }
+}

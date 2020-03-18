@@ -1,0 +1,10 @@
+// variables file
+@import '_variables';
+
+// global styling
+@import 'global';
+
+// individual styling for components
+@import './components/Header/Header';
+@import './components/MainBlock/MainBlock';
+@import './components/CommentSection/CommentSection';
